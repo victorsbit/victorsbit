@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
 * 🔭 Desenvolvimento Web
 * 🌱 Estudante da [Trybe](https://www.betrybe.com/)
 * ![Alt](/images/html.png "HTML5")
--->
