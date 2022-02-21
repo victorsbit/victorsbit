@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 * 🌱 Estudante da [Trybe](https://www.betrybe.com/)
 * ![Alt](/images/html.png "HTML5")
 -->
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=victorsbit&show_icons=true)
