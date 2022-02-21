@@ -18,8 +18,15 @@ Here are some ideas to get you started:
 <!--
 * 🔭 Desenvolvimento Web
 * 🌱 Estudante da [Trybe](https://www.betrybe.com/)
-* ![Alt](/images/html.png "HTML5")
 -->
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=victorsbit&theme=react&show_icons=true)
+<br />
+
+<p align="center">
+<img src="images/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="images/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="images/js.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+<!-- ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=victorsbit&theme=react&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsbit&layout=compact&theme=react)](https://github.com/victorsbit/github-readme-stats)
