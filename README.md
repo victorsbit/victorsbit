@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 * 🔭 Desenvolvimento Web
 * 🌱 Estudante da [Trybe](https://www.betrybe.com/)
 * ![Alt](/https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png.png "HTML5")
+-->
