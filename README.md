@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 <br />
 
 <p align="left">
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="HTML5" height="60" style="vertical-align:top; margin:4px">
-  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="CSS" height="60" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://www.pinpng.com/pngs/m/404-4041438_html-css-js-logos-html-css-javascript-hd.png" alt="languages" height="210" style="vertical-align:top; margin:4px">
 </p>
 
 <!-- ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=victorsbit&theme=react&show_icons=true) -->
