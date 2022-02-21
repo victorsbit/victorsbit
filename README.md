@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 * ![Alt](/images/html.png "HTML5")
 -->
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=victorsbit&theme=dark&show_icons=true)<br />
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsbit&theme=dark)
+<!-- ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=victorsbit&theme=dark&show_icons=true)<br /> -->
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsbit&theme=react&layout:compact)
