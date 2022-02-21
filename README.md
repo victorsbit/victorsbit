@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <br />
 
-<p align="center">
-<img src="https://w1.pngwing.com/pngs/951/574/png-transparent-react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<p align="left">
+<img src="https://w1.pngwing.com/pngs/951/574/png-transparent-react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends.png" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
 </p>
 
 <!-- ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=victorsbit&theme=react&show_icons=true) -->
