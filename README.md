@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=victorsbit&theme=react&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsbit&layout=compact&theme=react)](https://github.com/victorsbit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsbit&layout=compact&theme=dark)](https://github.com/victorsbit/github-readme-stats)
