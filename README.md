@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<!-- ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=victorsbit&theme=react&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsbit&layout=compact&theme=dark)](https://github.com/victorsbit/github-readme-stats)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=victorsbit&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsbit&layout=compact&theme=dracula)](https://github.com/victorsbit/github-readme-stats)
