@@ -30,7 +30,5 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<div align="center">
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=victorsbit&theme=react&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsbit&layout=compact&theme=ayu-mirage)](https://github.com/victorsbit/github-readme-stats) -->
-</div>
