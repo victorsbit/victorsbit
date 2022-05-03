@@ -22,15 +22,6 @@ Here are some ideas to get you started:
 
 <br />
 
-<!--
-<p align="left">
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-11.png" alt="HTML5" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="CSS" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="HTML5" height="50" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" height="50" style="vertical-align:top; margin:4px">
-</p>
--->
-
 <div align="center">
   <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsbit&locale=pt-br&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -40,10 +31,8 @@ Here are some ideas to get you started:
 
 ### Desenvolvendo habilidades em:
 
+<img align="center" alt="Logo do Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="Logo do HTML 5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 <img align="center" alt="Logo do CSS 3" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 <img align="center" alt="Logo do JavaScript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Logo do Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-<img align="center" alt="Logo do Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          
-
