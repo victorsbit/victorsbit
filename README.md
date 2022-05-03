@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <br />
 
-<div align="center" width="100px">
+<div align="center">
   <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsbit&locale=pt-br&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=victorsbit&locale=pt-br&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsbit&locale=pt-br&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
