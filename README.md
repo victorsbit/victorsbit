@@ -3,11 +3,11 @@
 ###
 
 <p align="left">Front-end Developer.<br>Full stack web development student at <a href="https://www.betrybe.com/">Trybe</a>.</p>
-<hr />
 
 ###
 
 <h3 align="left">Skills:</h3>
+<hr />
 
 ###
 
@@ -25,6 +25,7 @@
 ###
 
 <h3 align="left">Connect with me:</h3>
+<hr />
 
 ###
 
