@@ -7,6 +7,7 @@
 ###
 
 <h3 align="left">Skills:</h3>
+<hr />
 
 ###
 
