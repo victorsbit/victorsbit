@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Front-end Developer.<br>Full Stack Web Developer student at Trybe.</p>
+<p align="left">Front-end Developer.<br>Full Stack Web Developer student at <a href="https://www.betrybe.com/">Trybe</a>.</p>
 
 ###
 
