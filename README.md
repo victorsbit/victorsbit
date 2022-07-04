@@ -3,11 +3,11 @@
 ###
 
 <p align="left">Front-end Developer.<br>Full stack web development student at <a href="https://www.betrybe.com/">Trybe</a>.</p>
+<hr />
 
 ###
 
 <h3 align="left">Skills:</h3>
-<hr />
 
 ###
 
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
 </div>
+<hr />
 
 ###
 
@@ -35,6 +36,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+<hr />
 
 ###
 
