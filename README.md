@@ -1,8 +1,9 @@
 <h1 align="center">Olá! o/</h1>
 
-###
-
+<br />
 <p align="left">• Front-end Developer.<br>• Full Stack Web Development student at <a href="https://www.betrybe.com/">Trybe</a>.</p>
+
+###
 
 <h3 align="left">Languages:</h3>
 
@@ -11,8 +12,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo" />
 </div>
 
-
-
+<br />
+<br />
 
 <h3 align="left">Front-end:</h3>
 
@@ -24,8 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
 </div>
 
-
-
+<br />
+<br />
 
 <h3 align="left">Connect with me:</h3>
 
@@ -38,8 +39,8 @@
   </a>
 </div>
 
-
-
+<br />
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=victorsbit" height="150" alt="stats graph"  />
