@@ -2,12 +2,16 @@
 
 ###
 
-<p align="left">• Front-end Developer.<br>• Full stack web development student at <a href="https://www.betrybe.com/">Trybe</a>.</p>
+<p align="left">• Front-end Developer.<br>• Full Stack Web Development student at <a href="https://www.betrybe.com/">Trybe</a>.</p>
 
-###
+##
 
-<h3 align="left">Skills:</h3>
-<hr />
+<h3 align="left">Languages:</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
 
 ###
 
