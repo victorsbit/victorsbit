@@ -3,22 +3,6 @@
 <p align="left">• Front-end Developer.<br>• Full Stack Web Development student at <a href="https://www.betrybe.com/">Trybe</a>.</p>
 <p>My interest for technology started during High School. After two jobs related to customer/technical service, I went back to studies through <a href="https://www.betrybe.com/">Trybe</a> and fell in love with Web Development.</p>
 
-<!---
-<h3 align="left">Connect with me:</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/victor-stettner/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:victor.s.bitencourt@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-<br />
-<br />
--->
-
 <div align="center">
 <!---
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=victorsbit" height="150" alt="stats graph"  />
@@ -26,9 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&username=victorsbit" height="150" alt="languages graph"  />
 </div>
 
-<br />
-
-<h3 align="left">Skills:</h3>
+<h3 align="center">Skills:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />        
