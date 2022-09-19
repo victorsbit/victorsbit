@@ -1,7 +1,7 @@
 <h1 align="center">Olá! o/</h1>
 
-<summary>EN-US</summary>
 <details>
+<summary>EN-US</summary>
 
 <br />
 <p align="left">• Front-end Developer.<br>• Full Stack Web Development student at <a href="https://www.betrybe.com/">Trybe</a>.</p>
