@@ -1,7 +1,16 @@
 <h1 align="center">Olá! o/</h1>
 
+<summary>EN-US</summary>
+<details>
+
 <br />
 <p align="left">• Front-end Developer.<br>• Full Stack Web Development student at <a href="https://www.betrybe.com/">Trybe</a>.</p>
+<p>My interest for technology started during High School. After two jobs related to customer/technical service, I went back to studies through <a href="https://www.betrybe.com/">Trybe</a> and fell in love for Web Development.</p>
+
+</details>
+
+<p align="left">• Desenvolvedor Front-end.<br>• Estudante de Desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/">Trybe</a>.</p>
+<p>My interest for technology started during High School. After two jobs related to customer/technical service, I went back to studies through <a href="https://www.betrybe.com/">Trybe</a> and fell in love for Web Development.</p>
 
 ###
 
