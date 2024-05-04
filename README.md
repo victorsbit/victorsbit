@@ -1,7 +1,7 @@
 <h2 align="center">Olá! o/</h2>
 
-<p align="left">• Front-end Developer.<br>• Full Stack Web Development student at <a href="https://www.betrybe.com/">Trybe</a>.</p>
-<p>My interest for technology started during High School. After two jobs related to customer/technical service, I went back to studies through <a href="https://www.betrybe.com/">Trybe</a> and fell in love with Web Development.</p>
+<p align="left">• Full-Stack Developer.<br>
+<p>My interest for technology started during High School. After two jobs related to customer/technical service, I went back to studying and fell in love with Software Development.</p>
 
 <div align="center">
 <!---
